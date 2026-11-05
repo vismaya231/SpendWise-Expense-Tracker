@@ -351,4 +351,4 @@ The project demonstrates frontend and backend integration, REST API development,
 
 **Author:** Vismaya D B
 
-**GitHub Repository:** [Add your repository link after uploading the project]
+**GitHub Repository:** https://github.com/vismaya231/SpendWise-Expense-Tracker.git
